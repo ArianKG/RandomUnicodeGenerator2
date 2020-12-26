@@ -1,5 +1,4 @@
 const p = document.querySelector('.p');
-p.id = document.querySelector('p');
 
 setInterval(
 function randomUnicode() {
